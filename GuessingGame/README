@@ -1,0 +1,13 @@
+Android Guessing Game:
+----
+Date: 7-15-2013
+----
+This is a simple Android app for the purpose of learning how to build Android apps. In it's current state the app can:
+- Read user input from text fields
+- Generate Random numbers
+- Supports English and Spanish language
+- Read variables from an XML resource file
+- Accommodate multiple display types and modes
+
+~Connor Belanger
+Triclops Productions™
