@@ -1,4 +1,4 @@
-package com.decider.guessinggame;
+package com.triclops.guessinggame;
 
 import android.os.Bundle;
 import android.app.Activity;

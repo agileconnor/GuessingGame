@@ -1,4 +1,4 @@
-package com.decider.guessinggame;
+package com.triclops.guessinggame;
 
 import java.util.Random;
 

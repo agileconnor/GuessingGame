@@ -10,7 +10,7 @@
 	<string name="textHint">Enter a Number</string>
 	<string name="guessButton">Guess!</string>
 	<string name="ownerInfo">Triclops Productions™</string>
-	<string name="versionInfo">Version 1.4.1</string>
+	<string name="versionInfo">Version 1.5</string>
 	<string name="wins">wins!</string>
 	<string name="numText">The # was: </string>
 
