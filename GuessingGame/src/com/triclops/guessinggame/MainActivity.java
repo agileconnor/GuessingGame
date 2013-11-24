@@ -6,6 +6,7 @@ import android.view.Menu;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
+import com.google.analytics.tracking.android.EasyTracker;
 
 public class MainActivity extends Activity {
 	
@@ -29,6 +30,16 @@ public class MainActivity extends Activity {
 		// Inflate the menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
+	}
+	
+	public void onStart() {
+		super.onStart();
+		EasyTracker.getInstance(this).activityStart(this);
+	}
+	
+	public void onStops() {
+		super.onStop();
+		EasyTracker.getInstance(this).activityStop(this);
 	}
 	
 	public void gButtonClick(View view) {
