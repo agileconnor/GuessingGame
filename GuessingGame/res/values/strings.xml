@@ -9,7 +9,7 @@
 	<string name="player4_title">Player 4</string>
 	<string name="textHint">Enter a Number</string>
 	<string name="guessButton">Guess!</string>
-	<string name="ownerInfo">Triclops Productions™</string>
+	<string name="ownerInfo">Triclops Programming™</string>
 	<string name="versionInfo">Version 1.5.1</string>
 	<string name="wins">wins!</string>
 	<string name="numText">The # was: </string>

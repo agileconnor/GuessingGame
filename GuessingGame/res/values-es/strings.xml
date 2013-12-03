@@ -8,7 +8,7 @@
     <string name="player4_title">Jugador 4</string>
     <string name="textHint">Introduzca un número</string>
 	<string name="guessButton">Adivina!</string>
-	<string name="ownerInfo">Triclops Producciones™</string>
+	<string name="ownerInfo">Triclops Programación™</string>
 	<string name="versionInfo">Versión 1.5.1</string>
 	<string name="wins"> gana!</string>
 	<string name="numText">El # fue: </string>
